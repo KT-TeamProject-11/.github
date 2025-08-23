@@ -117,6 +117,10 @@
 ### **4. 공지사항 및 소식**
 - 센터의 최신 공지사항 및 행사 일정 안내
 
+<div align="center">
+  <img src="./assets/notice.png" alt="공지사항 및 소식" width="500px" style="border-radius: 10px;"/>
+</div>
+
 ---
 
 ### **5. 버튼 기반 간편 탐색**
