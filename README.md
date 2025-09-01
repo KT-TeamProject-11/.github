@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/main.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="./profile/assets/main.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 - 인사말, 조직 및 담당, 센터 연혁, 목표 및 비전 확인 가능
 
 <div align="center">
-  <img src="./assets/intro.png" alt="센터 인사말" width="600px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/intro.png" alt="센터 인사말" width="600px" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -95,11 +95,11 @@
 - 지역별 사업 내용 요약
 
 <div align="center">
-  <img src="./assets/total_map.png" alt="천안시 도시재생 총괄도" width="600px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/total_map.png" alt="천안시 도시재생 총괄도" width="600px" style="border-radius: 10px;"/>
 </div>
 
 <div align="center">
-  <img src="./assets/project_links.png" alt="사업소개 링크 모음" width="600px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/project_links.png" alt="사업소개 링크 모음" width="600px" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@
 - 지도 링크 제공
 
 <div align="center">
-  <img src="./assets/location.png" alt="천안시 도시재생지원센터 오시는 길" width="600px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/location.png" alt="천안시 도시재생지원센터 오시는 길" width="600px" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -118,7 +118,7 @@
 - 센터의 최신 공지사항 및 행사 일정 안내
 
 <div align="center">
-  <img src="./assets/notice.png" alt="공지사항 및 소식" width="500px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/notice.png" alt="공지사항 및 소식" width="500px" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@
 - 인사말 / 공지사항 / 사업소개 / 오시는 길 등 주요 메뉴 버튼 제공
 
 <div align="center">
-  <img src="./assets/buttons.png" alt="버튼 기반 탐색" width="500px" style="border-radius: 10px;"/>
+  <img src="./profile/assets/buttons.png" alt="버튼 기반 탐색" width="500px" style="border-radius: 10px;"/>
 </div>
 
 ---
